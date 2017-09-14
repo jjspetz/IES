@@ -1,0 +1,39 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 1% 5%;
+}
+#map {
+  height: 70%;
+  clear: both;
+}
+.title_L {
+  float: left;
+}
+.title_R {
+  float: right;
+}
+.button {
+  display: inline-block;
+  text-align: center;
+  margin: 1.5%;
+  padding: 1.5%;
+  width: 30%;
+  min-height: 120px;
+  border: 2px solid #081c31;
+  border-radius: 10px;
+}
+a {
+  color: black !important;
+  text-decoration: none !important;
+}
+.title {
+  margin-top: 2%;
+}
+.apply {
+  margin: 0 auto;
+  width: 60%;
+  box-shadow: 0 2px 2px #333;
+  border: 1px solid #081c31;
+  border-radius: 10px;
+}
